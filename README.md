@@ -3,6 +3,10 @@
 ## Overview
 This repository contains a comprehensive Excel-based data analysis project designed to explore supermarket sales from January to March. The project features a dynamic dashboard that highlights key insights, identifies trends, and provides actionable recommendations for business optimization.
 
+### Dashboard Preview
+
+<img src="supermarket_sales_dashboard.PNG"/>&nbsp;
+
 ### Key Insights
 
 1.**Total Sales and Profit**
